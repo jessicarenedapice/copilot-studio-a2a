@@ -59,8 +59,8 @@ You need either a Direct Line **secret** or a **token endpoint URL** from Copilo
 
 #### Option A: Direct Line Secret
 
-1. In Copilot Studio → **Settings → Channels → Direct Line**
-2. Copy the **Secret key**
+1. In Copilot Studio → **Settings → Security → Web Channel Security**
+2. Copy a **Secret key** (either one of the two available)
 3. Store it locally:
 
 ```bash
